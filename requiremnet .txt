@@ -1,0 +1,1 @@
+os module is use to manuplate the data from a opertaiing system ahnd hanled and manuplate date from the files 
